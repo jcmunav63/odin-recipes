@@ -7,7 +7,7 @@
  the Foundations course.
 
  First, created an index.html file, adding to it the
- boilerplate HTML code, as well as an <h1> tag for the homepage.
+ boilerplate HTML code, as well as an -h1- tag for the homepage.
 
  Then, created a page for Lasagna's recipe and linked it
  in the homepage.
