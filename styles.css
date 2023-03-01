@@ -12,6 +12,11 @@ h2 {
     text-align: center;
     color:darkred;
     font-size: 32px;
+    margin-left: 20px;
+}
+
+ul {
+    margin-left: 100px;
 }
 
 a.sub {
@@ -19,21 +24,35 @@ a.sub {
     font-size: 18px;
 }
 
-.container, body {
+.container, .description {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
 }
 
+
 .photo {
     text-align: center;
 }
 
+.left-container {
+    width: 45%;
+    margin-left: 30px;
+    float: left;
+}
+
+.right-container {
+    float: right;
+    width: 45%;
+    margin-right: 30px;
+}
+
 .end {
+    clear: both;
     text-align: center;
 }
 
 .line {
     color:darkred;
+    text-align: center;
 }
-
