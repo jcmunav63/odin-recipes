@@ -1,0 +1,39 @@
+* {
+    background-color: #f8fa8c;
+    font-size: 24px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+}
+
+h2 {
+    text-align: center;
+    color:darkred;
+    font-size: 32px;
+}
+
+a.sub {
+    vertical-align: sub;
+    font-size: 18px;
+}
+
+.container, body {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo {
+    text-align: center;
+}
+
+.end {
+    text-align: center;
+}
+
+.line {
+    color:darkred;
+}
+
